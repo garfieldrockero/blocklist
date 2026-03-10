@@ -2,7 +2,6 @@ diproton-ads-[^\.]*\.hulu\.com\.akadns\.net #for Disney Plus
 ||tcp-cecotec.3irobotix.net^
 ||images-2.rakuten.tv^
 ||meethue.com^
-||nextlgsdp.com^
 ||www.ueiwsp.com^
 ||xumo.com^
 ||media.tvup.cloud^
